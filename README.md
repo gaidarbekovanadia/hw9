@@ -5,3 +5,5 @@
 # ![](https://pp.userapi.com/c846418/v846418655/69540/KexeMLW4MBM.jpg)
 Использовала регулярное выражение:(^|\s)+[Н][а-я]* (город) Всего упоминаний Новгорода нашла: 58
 # ![](https://pp.userapi.com/c846418/v846418655/6954a/utzMjGvF7zk.jpg)
+бонусное задание
+![](https://sun9-8.userapi.com/c840620/v840620658/8938d/3GqBahzHYTc.jpg)
